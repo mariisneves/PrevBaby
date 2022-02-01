@@ -1,4 +1,4 @@
-# Projeto JAVA - Cálculo de IMC de gestantes
+# Projeto JAVA - Cálculo de IMC de Gestantes
 <h2>Componentes do grupo:</h2>
 <br>
 <li>Aline Lopes</li>
