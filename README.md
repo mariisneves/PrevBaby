@@ -1,5 +1,5 @@
 # Projeto JAVA - Cálculo de IMC de gestantes
-<h2>Componentes do grupo</h2>
+<h2>Componentes do grupo:</h2>
 <br>
 <li>Aline Lopes</li>
 <li>Ana Flávia Ruy Luques</li>
