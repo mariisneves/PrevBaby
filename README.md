@@ -1,4 +1,4 @@
-# Projeto JAVA - Cálculo do IMC de Gestantes
+# Projeto JAVA - PrevBaby
 <h2>Componentes do grupo:</h2>
 <br>
 <li>Aline Lopes</li>
